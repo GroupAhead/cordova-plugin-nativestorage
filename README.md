@@ -16,6 +16,10 @@ The plugin was created and developed by [Gilles Callebaut](https://be.linkedin.c
 
 Please consider reading our [wiki](https://github.com/TheCocoaProject/cordova-plugin-nativestorage/wiki) for more documentation about this plugin.
 
+## Fork overview
+
+We forked this plugin to support Cordova 3.9.1 for iOS
+
 ## Contents
 - [Why the need for this plugin?](#why)
 	* [When to use the plugin](#when)
